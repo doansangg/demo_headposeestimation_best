@@ -6,3 +6,6 @@ __pycache__
 data
 training_and_testing/300W_*
 converted-models
+/Bottom/
+*.jpg
+/weights/Resnet50_Final.pth
