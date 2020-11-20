@@ -8,7 +8,7 @@ python3 head_pose.py
 ```
 edit: file.txt in folder "demo"
 - line1 : path to folder
-  example: /home/doan/Pictures/head_pose/test_head_pose/IMG_0287.MP4
+  example: /home/doan/Pictures/head_pose/test_head_pose/Bottom
 - line2: path save folder image
   example: Bottom
 ```
