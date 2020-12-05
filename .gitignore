@@ -1,11 +1,1 @@
-env
-env2
-demo/img
-__pycache__
-.vscode
-data
-training_and_testing/300W_*
-converted-models
-/Bottom/
-*.jpg
 /weights/Resnet50_Final.pth

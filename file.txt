@@ -1,2 +1,9 @@
-/home/doan/Downloads/test_head_pose/Bottom
-Bottom
+/home/doan/Music/head_pose_test_23112020/IMG_0477.MOV
+IMG_0477.avi
+IMG_0477.txt
+IMG_0477
+BOTTOM
+RIGHT
+LEFT
+TOP
+PRO
